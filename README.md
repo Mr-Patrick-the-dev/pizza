@@ -4,7 +4,7 @@ Everyone likes Pizza, and it comes in many forms. Here are my favorites.
 
 ## Tools Used
 
-HTML, JavaScript, and CSS
+HTML and CSS
 
 ## Usage
 
